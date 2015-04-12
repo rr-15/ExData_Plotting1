@@ -7,7 +7,7 @@ The goal of this project is to  examine how household energy usage varies over a
 This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, we are  using the “Individual household electric power consumption Data Set”
 
 ### Environment
-R script was created and executed in R version 3.1.2 (2014-10-31) -- "Pumpkin Helmet"
+R script was created and executed in R version 3.1.2 (2014-10-31) -- "Pumpkin Helmet".
 The data file "household_power_consumption.txt" is assumed to be in the working drectory. 
 This script depends on the "sqldf" package, so it has to be installed first.  
 
@@ -24,13 +24,14 @@ In general all the scripts follow the steps given below:
 - Create the plot.
 - Write the plot to png device.
 
-#### Exevuting scripts
+#### Executing scripts
 - Set the working dir.
 - Source the plot code e.g plo1.R
 - Execute the function plot1()
 
 #### Plot Images
 Plots created by each script are:
+
 1. plot1.png
 2. plot2.png
 3. plot3.png
